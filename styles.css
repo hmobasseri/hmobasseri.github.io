@@ -108,7 +108,7 @@ transition: transform 0.4s;
 }
 
 
-.container:hover .social-container button:nth-child(2){
+.container:hover .social-container    button:nth-child(2){
     
     transition-delay: 0.5s;
 }
