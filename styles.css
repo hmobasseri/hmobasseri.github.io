@@ -102,7 +102,7 @@ transition: transform 0.4s;
 
    }
 
-.container:hover .social-container button{
+.container:hover .social-container  button{
     transform: translateX(60px);
     transition-delay: 0.3s;
 }
@@ -113,7 +113,7 @@ transition: transform 0.4s;
     transition-delay: 0.5s;
 }
 
-.container:hover .social-container button:nth-child(3){
+.container:hover .social-container  button:nth-child(3){
     
     transition-delay: 0.7s;
 }
