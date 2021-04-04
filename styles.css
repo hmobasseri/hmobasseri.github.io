@@ -4,3 +4,14 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+
+body{
+    min-height: 100vh;
+    width: 100%;
+    font-size: 14px;
+    background: #061e36;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
