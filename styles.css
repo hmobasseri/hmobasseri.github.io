@@ -69,14 +69,14 @@ body{
    .description {
    font-size: 1em;
    letter-spacing: 0.5px;
-   line-height: 20px;
+   line-height: 19px;
    text-align: center;
   }
 
   .role{
-      text-transform: uppercase;
+      /* text-transform: uppercase; */
       padding-bottom: 8px;
-      margin-bottom: 24px;
+      margin-bottom: 20px;
       border-bottom: 2px solid #ffbe44;
   }
 
